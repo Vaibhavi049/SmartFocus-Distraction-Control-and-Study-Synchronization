@@ -17,7 +17,7 @@
 // For production, configure proper security rules.
 // ============================================================
 
-const FIREBASE_DB_URL = 'https://smart-focus-group-default-rtdb.asia-southeast1.firebasedatabase.app/';
+const FIREBASE_DB_URL = '';
 
 // ---- Firebase REST API Helper ----
 const FirebaseDB = {
